@@ -1,0 +1,25 @@
+{
+  "name": "tiktok-telegram-bot",
+  "version": "1.0.0",
+  "description": "Telegram bot for TikTok video downloads",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AnGi149/tiktok-telegram-bot.git"
+  },
+  "keywords": [],
+  "author": "AnGi",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/AnGi149/tiktok-telegram-bot/issues"
+  },
+  "homepage": "https://github.com/AnGi149/tiktok-telegram-bot#readme",
+  "dependencies": {
+    "axios": "^1.4.0",
+    "node-telegram-bot-api": "^0.61.0"
+  }
+}
